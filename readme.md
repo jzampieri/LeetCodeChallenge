@@ -28,6 +28,7 @@ LeetCodeChallenge/
 ## 🛠️ Stack Tecnológico
 
 - Python 3
+- MySQL
 - VS Code
 - Testes com `if __name__ == "__main__"`
 
@@ -67,6 +68,7 @@ LeetCodeChallenge/
 ## 🛠️ Tech Stack
 
 - Python 3
+- MySQL
 - VS Code
 - Tests with `if __name__ == "__main__"`
 
