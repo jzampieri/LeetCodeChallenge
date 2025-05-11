@@ -1,56 +1,31 @@
-# LeetCode Challenge 🧠
+# LeetCode Challenge
+<div align="center">
+  <img src="https://ucarecdn.com/0185f58f-ba8a-4f06-bf4d-cb20f6b21bb1/" width="300" alt="LeetCode Challenge logo" />
+</div>
 
-Este repositório contém soluções para desafios do [LeetCode](https://leetcode.com/) desenvolvidas por [Julio Zampieri](https://github.com/jzampieri), com o objetivo de aprimorar habilidades em algoritmos, estrutura de dados e resolução de problemas.
-
----
-
-## 🚀 Objetivo
-
-Manter um ritmo constante de prática com desafios de programação, utilizando linguagens como **Python**, e documentar meu progresso ao longo do tempo.
-
----
-
-## 📂 Estrutura do Repositório
-
-```bash
-LeetCodeChallenge/
-│
-├── easy/           # Desafios de dificuldade fácil
-├── medium/         # Desafios de dificuldade média
-├── hard/           # Desafios de dificuldade difícil
-│
-├── README.md
-└── ...
-```
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/jzampieri/LeetCodeChallenge" />
+  <img src="https://img.shields.io/github/stars/jzampieri/LeetCodeChallenge?style=social" />
+  <img src="https://img.shields.io/github/forks/jzampieri/LeetCodeChallenge?style=social" />
+</p>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 📘 About LeetCode
 
-- Python 3
-- MySQL
-- VS Code
-- Testes com `if __name__ == "__main__"`
+[LeetCode](https://leetcode.com/) is a premier platform for practicing coding problems and preparing for technical interviews. It offers a vast collection of problems that help developers improve their algorithmic and data structure skills.
 
 ---
 
-🔗 [GitHub](https://github.com/jzampieri) | [LinkedIn](https://www.linkedin.com/in/julio-cesar-zampieri-3257b6267/)
+## 🔍 Project Overview
+
+This repository is maintained by [@jzampieri](https://github.com/jzampieri) and contains a growing list of LeetCode problems solved in **Python**. The goal is to build consistency in problem-solving while learning and documenting solutions with clarity and organization.
 
 ---
 
-# LeetCode Challenge 🧠
+## 🧠 Summary
 
-This repository contains solutions to [LeetCode](https://leetcode.com/) challenges developed by [Julio Zampieri](https://github.com/jzampieri), with the goal of improving skills in algorithms, data structures, and problem-solving.
-
----
-
-## 🚀 Objective
-
-Maintain a consistent practice routine with coding challenges using languages like **Python**, and document my progress over time.
-
----
-
-## 📂 Repository Structure
+Here, you will find categorized solutions based on difficulty:
 
 ```bash
 LeetCodeChallenge/
@@ -63,17 +38,30 @@ LeetCodeChallenge/
 └── ...
 ```
 
+Each problem includes:
+
+* ✅ Problem description
+* 🤩 My solution
+* 💬 Explanation and reasoning
+
 ---
 
 ## 🛠️ Tech Stack
 
-- Python 3
-- MySQL
-- VS Code
-- Tests with `if __name__ == "__main__"`
+* Python 3
+* MySQL (optional for specific problems)
+* VS Code
+* Manual testing using `if __name__ == "__main__"`
 
 ---
 
-🔗 [GitHub](https://github.com/jzampieri) | [LinkedIn](https://www.linkedin.com/in/julio-cesar-zampieri-3257b6267/)
+## 📬 Contact
 
+Feel free to connect and collaborate:
 
+* 🔗 [GitHub](https://github.com/jzampieri)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/julio-cesar-zampieri-3257b6267/)
+
+---
+
+> "One problem a day keeps the fear away!" 🚀
